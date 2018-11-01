@@ -1,0 +1,4 @@
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.csprojAssemblyReference.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.csproj.CoreCompileInputs.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.RazorAssemblyInfo.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.RazorAssemblyInfo.cs

@@ -1,0 +1,14 @@
+F:\jwt\jwt.API\bin\Debug\netcoreapp2.1\jwt.API.deps.json
+F:\jwt\jwt.API\bin\Debug\netcoreapp2.1\jwt.API.runtimeconfig.json
+F:\jwt\jwt.API\bin\Debug\netcoreapp2.1\jwt.API.runtimeconfig.dev.json
+F:\jwt\jwt.API\bin\Debug\netcoreapp2.1\jwt.API.dll
+F:\jwt\jwt.API\bin\Debug\netcoreapp2.1\jwt.API.pdb
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.csprojAssemblyReference.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.csproj.CoreCompileInputs.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.RazorAssemblyInfo.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.RazorAssemblyInfo.cs
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.AssemblyInfoInputs.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.AssemblyInfo.cs
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.RazorTargetAssemblyInfo.cache
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.dll
+F:\jwt\jwt.API\obj\Debug\netcoreapp2.1\jwt.API.pdb
